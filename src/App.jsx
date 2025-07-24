@@ -40,7 +40,7 @@ export function App() {
 
    <TodoList/>
 
-/////7  <h1>Hola Mi App!</h1>
+/////  <h1>Hola Mi App!</h1>
 
   )
 }
